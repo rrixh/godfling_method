@@ -331,7 +331,7 @@ function LoadIntro()
 		end
 	end
 	BlurIn:Pause()
-	Type("Credits:\nScript created using Pendulum Animator.\nScript created by "..PASettings.ScriptCreator..".", TextLabel)
+	Type("Credits:\nSkript kreated using pendelum animator.\nSkript kreated by "lulaslollipop".", TextLabel)
 	task.wait(1)
 	workspace["Swish Suck Reversed Metallic Swoosh Impact 2 (SFX)"]:Play()
 	
