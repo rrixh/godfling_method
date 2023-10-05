@@ -24,7 +24,7 @@ Highlight.Adornee = Root
 local PASettings = {
     WalkSpeed = 16,
     JumpPower = 125,
-    ScriptCreator = "Anonymous Creator",
+    ScriptCreator = "Anonymous Kreator",
     HatsBeingAnimated = {
         
     },
